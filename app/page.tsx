@@ -16,6 +16,7 @@ export default function Home() {
               <p className="text-gray-300 text-lg">
                   Devi Blogs is a blog platform built with <span className="text-emerald-400 font-medium">Next.js</span>, <span className="text-emerald-400 font-medium">Firebase</span>, and <span className="text-emerald-400 font-medium">Tailwind CSS</span>.
               </p>
+              <p>test creds : username: admin@admin.com , password :admin1234 for edit and make blogs.</p>
           </div>
       </div>
   );
