@@ -5,13 +5,17 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 Its the initial version of devin-bay and some of features are :- 
 
 User authentication (Firebase db)
+
 Real-time updates (upload blogs)
+
 Dark UI to work with 
 
 # Tech 
 
 Frontend (HTML, React, tailwind css)
+
 Backend ( Node.js, Next.js)
+
 Database: (Firebase DB)
 
 
